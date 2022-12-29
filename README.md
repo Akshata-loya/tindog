@@ -1,2 +1,1 @@
-# tindog
-Trial Website
+TinDog Starting Files
